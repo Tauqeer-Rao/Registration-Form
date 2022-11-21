@@ -1,0 +1,49 @@
+button {
+    background-color: #F39C12;
+    width: 80%;
+    height: 30px;
+    color: White;
+    border: none;
+}
+
+h5 {
+    color: chocolate;
+}
+
+input {
+    width: 80%;
+    height: 30px;
+    border: none;
+    background-color: #AAB7B8;
+}
+
+.input1 {
+
+    background-color: #AAB7B8;
+}
+
+.div_class {
+    background-color: aliceblue;
+    border: 85px;
+    margin: auto;
+    width: 23%;
+    text-align: center;
+    padding: 20px 40px;
+
+}
+
+.form {
+    text-align: center;
+}
+
+.form1 {
+    margin-top: 5%;
+    display: flex;
+    width: 43%;
+    margin-left: 15%;
+}
+
+body {
+    background-color: #F39C12;
+    padding: 50px;
+}
